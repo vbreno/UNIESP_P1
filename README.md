@@ -1,2 +1,2 @@
-# Repositório destinado à introdução de aprendizagem Python com o Professor Messias (UNIESP) e Guanabara (Curso em Vídeo).
-# Este repositório mostra soluções básicas com códigos Python, abordando mais as funções 'if, else, elif, while e for', nas problemáticas dos professores.
+# Repositório destinado ao registro da aprendizagem na linguagem Python
+# Para registro da aprendizagem o repositório contará com diretórios das atividades da faculdade UNIESP, ao longo do curso de Sistemas para Internet, e os exercícios do Youtube aplicados pelo Professor Gustavo Guanabara - Curso em Vídeo.
