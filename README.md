@@ -2,5 +2,4 @@
 
 # As matérias focadas a este repositório e suas tecnologias utilizadas são:
 
-# Tecnologia Para Front-End - HTML + CSS (Professor Ângelo Dias);
-# Introdução à Programação - Python (Professor Messias Batista).
+# Introdução à Programação - Python / Professor Messias Batista.
