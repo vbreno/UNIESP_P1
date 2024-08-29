@@ -1,2 +1,6 @@
-# Repositório destinado ao registro da aprendizagem na linguagem Python
-# Para registro da aprendizagem o repositório contará com diretórios das atividades da faculdade UNIESP, ao longo do curso de Sistemas para Internet, e os exercícios do Youtube aplicados pelo Professor Gustavo Guanabara - Curso em Vídeo.
+# Repositório destinado ao registro de aprendizagem das tecnologias utilizadas no meu primeiro semestre de Sistemas Para Internet - UNIESP.
+
+# As matérias focadas a este repositório e suas tecnologias utilizadas são:
+
+# Tecnologia Para Front-End - HTML + CSS (Professor Ângelo Dias);
+# Introdução à Programação - Python (Professor Messias Batista).
